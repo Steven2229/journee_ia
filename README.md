@@ -9,6 +9,6 @@ Ouvrir dans un navigateur, imprimer au format A5 sans marges. Données fictives 
 
 ## Deuxième série : analyse de documents
 
-- `analyse-1.html` : recours gracieux ; `analyse-3.html` : état hypothécaire (les autres suivront). Les documents de l'atelier 3 ne sont pas dans ce dépôt.
+- `analyse-1.html` : recours gracieux ; `analyse-2.html` : style d'infographie ; `analyse-3.html` : état hypothécaire (les autres suivront). Les documents de l'atelier 3 ne sont pas dans ce dépôt.
 - `documents/` : documents anonymisés des exercices (jamais d'originaux ni de corrigés).
 - `qr-analyses.html` : planche A4 des QR codes de cette série (générée par `outils/qr_analyses.py`).
